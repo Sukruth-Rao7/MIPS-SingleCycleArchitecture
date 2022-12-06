@@ -1,0 +1,22 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/sukruth_rao/single_cycle/single_cycle.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sim_1/new/tb_mips.v,1670127394,verilog,,,,tb_mips,,,,,,,,
+C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/ALU.v,1670016584,verilog,,C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/ALUcontrol.v,,ALU,,,,,,,,
+C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/ALUcontrol.v,1613288377,verilog,,C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/Add_ALU.v,,ALUControl,,,,,,,,
+C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/Add_ALU.v,1613288377,verilog,,C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/AndGate.v,,Add_ALU,,,,,,,,
+C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/AndGate.v,1613288377,verilog,,C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/DataMemory.v,,AndGate,,,,,,,,
+C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/DataMemory.v,1670208426,verilog,,C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/InstMem.v,,DataMemory,,,,,,,,
+C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/InstMem.v,1670125327,verilog,,C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/MainControl.v,,InstMem,,,,,,,,
+C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/MainControl.v,1670136782,verilog,,C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/MipsCPU.v,,MainControl,,,,,,,,
+C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/MipsCPU.v,1670121215,verilog,,C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/Mux1.v,,MipsCPU,,,,,,,,
+C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/Mux1.v,1613288377,verilog,,C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/Mux2.v,,Mux1,,,,,,,,
+C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/Mux2.v,1613288377,verilog,,C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/Mux3.v,,Mux2,,,,,,,,
+C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/Mux3.v,1669953100,verilog,,C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/Mux4.v,,Mux3,,,,,,,,
+C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/Mux4.v,1613288377,verilog,,C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/PC.v,,Mux4,,,,,,,,
+C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/PC.v,1613288377,verilog,,C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/RegFile.v,,PC,,,,,,,,
+C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/RegFile.v,1670214966,verilog,,C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/ShiftLeft2.v,,RegFile,,,,,,,,
+C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/ShiftLeft2.v,1613288377,verilog,,C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/SignExtend.v,,ShiftLeft2,,,,,,,,
+C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sources_1/imports/project/SignExtend.v,1613288377,verilog,,C:/Users/sukruth_rao/single_cycle/single_cycle.srcs/sim_1/new/tb_mips.v,,SignExtend,,,,,,,,
